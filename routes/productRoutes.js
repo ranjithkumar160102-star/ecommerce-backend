@@ -34,7 +34,6 @@ router.post(
 
   "/",
 
-  protect,
  
   createProduct
 
